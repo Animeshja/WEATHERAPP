@@ -1,0 +1,1 @@
+Simple weather application made using HTML, CSS & JavaScript, you can get the weather details of a particular city by entering the city name. Details like temperature in celsius, humidity, windspeed, clouds ,also collection your area weather.
